@@ -1,0 +1,10 @@
+$backgroundHeader: #c0eea9 ;
+$backgroundLine: #000;
+$backgroundHeroAbout: #97d279;
+$standardPadding: 20px;
+
+@mixin textStyle {
+  max-width: 700px;
+  text-align: center;
+  padding: $standardPadding;
+}
